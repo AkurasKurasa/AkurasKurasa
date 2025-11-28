@@ -8,7 +8,7 @@ Python
 Java
 MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
 
-Experience: Unemployed  
+Experience: Unemployed (do you not notice the pfp?)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AkurasKurasa&show_icons=true&cache=0)
