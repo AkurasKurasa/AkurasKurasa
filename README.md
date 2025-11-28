@@ -1,7 +1,12 @@
 ## Paul Andrei Calma
-## I love OpenSource (I am a pirate)
 
 Aspiring Full-Stack Developer | Aspiring Offensive Security Data Scientist | Wants to be a little of everything 😝
+
+Technology Stack:
+
+Python
+Java
+MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
 
 Experience: Unemployed  
 
