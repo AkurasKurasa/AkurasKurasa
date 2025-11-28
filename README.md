@@ -6,4 +6,4 @@ Aspiring Full-Stack Developer | Aspiring Offensive Security Data Scientist | Wan
 Experience: Unemployed  
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AkurasKurasao&show_icons=true&cache=0)
+![github stats](https://github-readme-stats.vercel.app/api?username=AkurasKurasa&show_icons=true&cache=0)
