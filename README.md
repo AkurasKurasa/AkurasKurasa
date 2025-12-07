@@ -1,21 +1,21 @@
-## 🌟 Paul Andrei Calma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&weight=600&size=32&duration=3000&pause=1000&color=F76060&repeat=false&width=435&lines=Paul+Andrei+S.+Calma)](https://git.io/typing-svg)
 
 **Aspiring Full-Stack Developer** • **Offensive Security Data Science Enthusiast**  
-Wannabe “does-everything” engineer 😝
+Wants to be a little bit of everything
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Preferred Tech Stack
 **Languages:**  
 - Python 🐍  
 - Java ☕  
-- JavaScript / TypeScript  
 - MERN Stack (MongoDB, Express, React, Node)
+- And everything else you need
 
 ---
 
 ### 📚 Experience & Stats
-- 💼 Experience: *Unemployed (check the pfp 😭)*  
+- 💼 Experience: *Unemployed (check the pfp)*  
 - 🏆 Hackathons: **1** (got carried hard)  
 - 🧠 LeetCode: **69 / 500**  
 - 🧪 Projects: **0 / 100**  
