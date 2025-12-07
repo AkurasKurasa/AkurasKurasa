@@ -24,8 +24,8 @@ Wants to be a little bit of everything
 ---
 
 ### 📊 GitHub & LeetCode Metrics
-![Metrics](https://metrics.lecoq.io/AkurasKurasa?template=classic&base.header=1&base.community=1&base.metadata=1&languages=1&languages.colors=github&languages.sections=most-used&languages.limit=8&leetcode=1&leetcode.user=AkurasKurasa&leetcode.sections=solved&config.timezone=Asia%2FTaipei)
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkurasKurasa&theme=default) 
+ 
 ---
 
 ### 🎯 Current Goals
