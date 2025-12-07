@@ -3,6 +3,8 @@
 **Aspiring Full-Stack Developer** • **Offensive Security Data Science Enthusiast**  
 Wants to be a little bit of everything
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkurasKurasa&theme=default) 
+
 ---
 
 ### 🛠️ Preferred Tech Stack
@@ -19,17 +21,4 @@ Wants to be a little bit of everything
 - 🏆 Hackathons: **1** (got carried hard)  
 - 🧠 LeetCode: **69 / 500**  
 - 🧪 Projects: **0 / 100**  
-- 📜 Certificates: *none worth flexing*  
-
----
-
-### 📊 GitHub & LeetCode Metrics
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkurasKurasa&theme=default) 
- 
----
-
-### 🎯 Current Goals
-- Build a real project (pls 😭)  
-- Reach 100 LeetCode problems  
-- Learn offensive security fundamentals  
-- Become dangerous with Python and JavaScript  
+- 📜 Certificates: *none worth mentioning* 
