@@ -1,19 +1,35 @@
-## Paul Andrei Calma
+## 🌟 Paul Andrei Calma
 
-Aspiring Full-Stack Developer | Aspiring Offensive Security Data Scientist | Wants to be a little of everything 😝
+**Aspiring Full-Stack Developer** • **Offensive Security Data Science Enthusiast**  
+Wannabe “does-everything” engineer 😝
 
-Technology Stack:
+---
 
-Python
-Java
-MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
+### 🛠️ Tech Stack
+**Languages:**  
+- Python 🐍  
+- Java ☕  
+- JavaScript / TypeScript  
+- MERN Stack (MongoDB, Express, React, Node)
 
-Experience: Unemployed (do you not notice the pfp?)
+---
 
-(12-6-2025)
-hackathons: 1 (got carried hard 😭)
-leetcode: 69 / 500
-projects: 0 / 100
-certificates: none i care to mention gng
+### 📚 Experience & Stats
+- 💼 Experience: *Unemployed (check the pfp 😭)*  
+- 🏆 Hackathons: **1** (got carried hard)  
+- 🧠 LeetCode: **69 / 500**  
+- 🧪 Projects: **0 / 100**  
+- 📜 Certificates: *none worth flexing*  
 
+---
+
+### 📊 GitHub & LeetCode Metrics
 ![Metrics](https://metrics.lecoq.io/AkurasKurasa?template=classic&base.header=1&base.community=1&base.metadata=1&languages=1&languages.colors=github&languages.sections=most-used&languages.limit=8&leetcode=1&leetcode.user=AkurasKurasa&leetcode.sections=solved&config.timezone=Asia%2FTaipei)
+
+---
+
+### 🎯 Current Goals
+- Build a real project (pls 😭)  
+- Reach 100 LeetCode problems  
+- Learn offensive security fundamentals  
+- Become dangerous with Python and JavaScript  
